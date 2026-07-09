@@ -1,4 +1,4 @@
-# Diogo Borges
+﻿# Diogo Borges
 
 Computer Science graduate interested in **Artificial Intelligence**, software engineering, automation, and data-driven systems.
 
@@ -8,13 +8,13 @@ I build practical systems with clear data flow, inspectable outputs, reproducibl
 
 | Area | Project | What it demonstrates |
 |---|---|---|
-| AI / Computer Vision | [SPINAL-AI2024-BORGES-LIMA](https://github.com/abenjass/SPINAL-AI2024-BORGES-LIMA) | Interpretable deep learning, medical imaging, Cobb angle estimation, model evaluation, dataset handling |
-| Automation / Networking | [clean_switch](https://github.com/abenjass/clean_switch) | Python automation, Cisco switch collection, parsing, Excel dashboards, JSON snapshots, topology crawl |
-| Full-Stack / Algorithms | [Nim Game frontend](https://github.com/abenjass/nimgame) + [API](https://github.com/abenjass/api_nim) | React frontend, Flask REST API, game-state modelling, validation, XOR-based computer strategy |
+| AI / Computer Vision | [SPINAL-AI2024-BORGES-LIMA](https://github.com/abenjas7/SPINAL-AI2024-BORGES-LIMA) | Interpretable deep learning, medical imaging, Cobb angle estimation, model evaluation, dataset handling |
+| Automation / Networking | [clean_switch](https://github.com/abenjas7/clean_switch) | Python automation, Cisco switch collection, parsing, Excel dashboards, JSON snapshots, topology crawl |
+| Full-Stack / Algorithms | [Nim Game frontend](https://github.com/abenjas7/nimgame) + [API](https://github.com/abenjas7/api_nim) | React frontend, Flask REST API, game-state modelling, validation, XOR-based computer strategy |
 
 ## Main Project
 
-### [SPINAL-AI2024-BORGES-LIMA](https://github.com/abenjass/SPINAL-AI2024-BORGES-LIMA)
+### [SPINAL-AI2024-BORGES-LIMA](https://github.com/abenjas7/SPINAL-AI2024-BORGES-LIMA)
 
 Final-year engineering project on automated scoliosis assessment from spinal radiographs.
 
@@ -25,7 +25,7 @@ Final-year engineering project on automated scoliosis assessment from spinal rad
 
 My main contribution focused on the landmark-based branch: vertebral quadrilateral prediction, geometric post-processing, Cobb endpoint selection, MLP-based angle regression, and error analysis. The centerline branch was developed by my project teammate Daniel Lima.
 
-Reviewer links: [case study](https://github.com/abenjass/SPINAL-AI2024-BORGES-LIMA/blob/main/docs/PORTFOLIO_CASE_STUDY.md) | [model card](https://github.com/abenjass/SPINAL-AI2024-BORGES-LIMA/blob/main/MODEL_CARD.md) | [dataset guide](https://github.com/abenjass/SPINAL-AI2024-BORGES-LIMA/blob/main/DATASET_ACCESS.md) | [model weights](https://github.com/abenjass/SPINAL-AI2024-BORGES-LIMA/releases/tag/models-v1)
+Reviewer links: [case study](https://github.com/abenjas7/SPINAL-AI2024-BORGES-LIMA/blob/main/docs/PORTFOLIO_CASE_STUDY.md) | [model card](https://github.com/abenjas7/SPINAL-AI2024-BORGES-LIMA/blob/main/MODEL_CARD.md) | [dataset guide](https://github.com/abenjas7/SPINAL-AI2024-BORGES-LIMA/blob/main/DATASET_ACCESS.md) | [model weights](https://github.com/abenjas7/SPINAL-AI2024-BORGES-LIMA/releases/tag/models-v1)
 
 ## Technical Areas
 
@@ -34,3 +34,4 @@ Python | JavaScript | React | Flask | REST APIs | TensorFlow/Keras | Computer Vi
 ## Current Direction
 
 Preparing for MSc-level work in Artificial Intelligence while continuing to build practical software projects across machine learning, automation, APIs, and data-driven engineering.
+
